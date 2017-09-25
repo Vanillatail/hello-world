@@ -1,5 +1,4 @@
 # hello-world
-Monica's first repository
 Hi Humans!
 
 The name Vanillatail was inspired by the nickname of my friends - Tomatohead. It may sound not as crispy as hers, but still fits quite well for a Buffalo bunny!
